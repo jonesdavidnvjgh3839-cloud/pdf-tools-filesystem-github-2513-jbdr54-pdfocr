@@ -1,2 +1,13 @@
-# pdf-tools-filesystem-github-2513-jbdr54-pdfocr
-Rust crate for OCR of scanned PDF documents
+# pdfocr
+
+A Rust crate for OCR of scanned PDF documents.
+
+## Features
+
+- Renders scanned PDF pages and performs OCR
+- Language hint support
+- High-resolution mode for small text
+
+## License
+
+Apache-2.0
